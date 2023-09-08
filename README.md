@@ -1,0 +1,3 @@
+# prompter
+
+Cli prompt generator.
