@@ -6,7 +6,7 @@
 //     console.error(err)
 //   })
 
-import './treeBuildPrompt'
+import './doughnut'
 
 // tablePrompt(
 //   'Select a cell:',
